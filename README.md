@@ -1,8 +1,3 @@
-# Tetris_Nov_2022
-Tetris Game from Fall Semester of 2022
+# Tetris-2022
 
-All header and cpp files are commited but missing:
-  -> .sln file for microsoft studios 
-  -> Debug Folder
-  -> SFML Foldeer
-  -> Main 'Tetris Folder'
+Tetris Game, Final Project for 'Programming from C to C++' course from Camosun College, Fall Semester Sept-Dec, 2022
